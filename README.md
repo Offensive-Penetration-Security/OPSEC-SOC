@@ -1,5 +1,23 @@
 # OPSEC-SOC
 
+## What Does a Security Operations Center Do?
+
+Most security operations centers follow a “hub and spoke” structure, allowing the organization to create a centralized data repository that is then used to meet a variety of business needs. SOC activities and responsibilities include:
+
+- Network monitoring to provide complete visibility into digital activity and better detect anomalies
+- Prevention techniques to deter and deflect a range of known and unknown risks
+- Threat detection and intelligence capabilities that assess the origin, impact and severity of each cybersecurity incident
+- Decisive incident response and remediation using a blend of automated technologies and human intervention
+- Reporting to ensure all incidents and threats are fed into the data repository, making it more precise and responsive in the future
+- Risk and compliance capabilities to ensure industry and government regulations are followed
+
+The SOC team is also responsible for the operation, management and maintenance of the security center as an organizational resource. This includes developing an overarching strategy and plan, as well as creating processes to support the operation of the center. The team also evaluates, implements, and operates tools, devices, and applications and oversees their integration, maintenance and updating.
+
+In addition to managing individual incidents, the SOC consolidates disparate data feeds from each asset to create a baseline understanding of normal network activity. The SOC then uses this assessment to detect anomalous activity with added speed and accuracy.
+
+One key attribute of the SOC is that it operates continuously, providing 24/7 monitoring, detection and response capabilities. This helps ensure threats are contained and neutralized quickly, which in turn allows organizations to reduce their “breakout time” — the critical window between when an intruder compromises the first machine and when they can move laterally to other parts of the network.
+
+-------------------------------------------------------------------------------------------------------------------
 
 ## Staff Roles and Responsibilities in a SOC
 
